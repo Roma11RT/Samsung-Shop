@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+.payment{
+    border-radius: 50px;
+    border-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 100px;
+}
